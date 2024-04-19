@@ -1,4 +1,4 @@
-# VFLIP: A Backdoor Defense for Vertical Federated Learning via Identification and Purification
+Submission# 1111
 
 In support of open science, we will release the full implementation of VFLIP including SOTA attack methods used in the experiments to an open-source upon publication.
 
